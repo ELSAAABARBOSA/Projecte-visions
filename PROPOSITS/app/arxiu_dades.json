@@ -1,0 +1,27 @@
+[
+    {   
+        "id": "1",
+        "texto": "Complint el meu propòsit de llegir diàriament",
+        "nom": "Gerard Barbosa",
+        "foto": "https://images.pexels.com/photos/19149193/pexels-photo-19149193/free-photo-of-tassa-relaxacio-caputxino-beure.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load",
+        "profilePicture":"https://randomuser.me/api/portraits/men/51.jpg",
+        "likes":"true"
+    },
+    {
+        "id": "2",
+        "texto": "Arbre muntat, propòsit de la setmana complert!",
+        "nom": "Maria Perati",
+        "foto": "https://images.pexels.com/photos/19051375/pexels-photo-19051375/free-photo-of-decoracio-corona-de-flors-celebracio-sala-d-estar.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load",
+        "profilePicture":"https://randomuser.me/api/portraits/women/51.jpg",
+        "likes":"true"
+    },
+    {
+        "id": "3",
+        "texto": "Propòsits relacionats amb l'esport",
+        "nom": "Jordi Moreno",
+        "foto": "https://images.pexels.com/photos/17720516/pexels-photo-17720516/free-photo-of-constipat-neu-paisatge-muntanyes.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load",
+        "profilePicture":"https://randomuser.me/api/portraits/men/51.jpg",
+        "likes":"true"
+    }
+    
+]

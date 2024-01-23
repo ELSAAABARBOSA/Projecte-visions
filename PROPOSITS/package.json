@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "bootstrap-vue": "^2.23.1",
+    "cli": "^1.0.1",
+    "socket.io": "^4.7.4",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5"
+  }
+}
